@@ -40,6 +40,7 @@ See `/docs/data_dictionary.md` for column descriptions.
 
 ## 3) Architecture (high level)
 
+<<<<<<< HEAD
 ### Database Schema
 - **Production Schema**: `brands`, `categories`, `products`, `stocks`
 - **Sales Schema**: `customers`, `staffs`, `stores`, `orders`, `order_items`
@@ -136,3 +137,4 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 - GitHub: [@Kevin-lee-187](https://github.com/Kevin-lee-187)
 - Project: [bike-store-demo](https://github.com/Kevin-lee-187/bike-store-demo)
+>>>>>>> 9df59cd66100fe90c0575c335b5f5d2a2d5abd4c
